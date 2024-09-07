@@ -1,0 +1,22 @@
+{
+  "name": "touchgrass",
+  "version": "1.0.0",
+  "description": "Web Social Platform for newcomers to a city, because let's face it. Our generation don't know how to make friends in a bar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKartist/TouchGrass.git"
+  },
+  "author": "TKartist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKartist/TouchGrass/issues"
+  },
+  "homepage": "https://github.com/TKartist/TouchGrass#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
