@@ -18,5 +18,9 @@
   "homepage": "https://github.com/TKartist/TouchGrass#readme",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.10"
   }
 }
